@@ -10,4 +10,4 @@ Thông tin nhóm
 2. Họ tên sinh viên 2 (MSSV)
 3. Họ tên sinh viên 3 (MSSV)
 4. Họ tên sinh viên 4 (MSSV)
-5. Họ tên sinh viên 5 (MSSV)
+5. Mai Thị Xuân Sinh (24126191)
