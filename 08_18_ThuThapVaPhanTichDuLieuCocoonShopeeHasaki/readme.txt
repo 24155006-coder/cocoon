@@ -1,5 +1,5 @@
 ----- Thông tin đề tài --------------------
-STT: 14
+STT: 18
 Tên đề tài: PHÂN TÍCH HÀNH VI NGƯỜI TIÊU DÙNG VÀ PHẢN HỒI KHÁCH HÀNG ĐỐI VỚI THƯƠNG HIỆU COCOON TRÊN HAI NỀN TẢNG HASAKI VÀ SHOPEE
 Lớp học phần: ABDA433708
 Năm học: HK1/2026-2027
